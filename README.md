@@ -9,6 +9,8 @@ Auto release Homebrew Taps by GoReleaser reference this [document](https://gorel
 ```
 brew tap KusionStack/tap
 brew install kusionup
+brew install kusion
+brew install kclvm
 ```
 
 ## Formulae
@@ -16,8 +18,9 @@ brew install kusionup
 | Repository | Formula | Description |
 | ---------- | ------- | ----------- |
 | [kusionup](https://github.com/KusionStack/kusionup) | [formula](HomebrewFormula/kusionup.rb) | A version management tool for kusion |
+| [kusion](https://github.com/KusionStack/kusion) | [formula](HomebrewFormula/kusionup.rb) | Codify and deliver intentions to Kubernetes and Clouds |
+| [KCLVM](https://github.com/KusionStack/KCLVM) | [formula](HomebrewFormula/kclvm.rb) | A constraint-based record & functional language mainly used in configuration and policy scenarios. |
 
 ## Documentation
 
 `brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh/)
-

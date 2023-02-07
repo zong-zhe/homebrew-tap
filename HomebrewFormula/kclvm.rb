@@ -18,7 +18,7 @@ class Kclvm < Formula
     end
     if Hardware::CPU.intel?
       url "https://github.com/KusionStack/KCLVM/releases/download/v0.4.4/kclvm-v0.4.4-darwin-amd64.tar.gz", using: CurlDownloadStrategy
-      sha256 "072c511ac5b391278e6393ed8473b95587a27adc91a779a6bc8ec9f02c3a3872"
+      sha256 "a9ecb22f1b51581a688145b64429b0e108220e20eda2e21f479abba587e0d272"
 
       def install
         bin.install "kclvm"
