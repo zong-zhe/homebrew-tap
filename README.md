@@ -12,7 +12,7 @@ brew install kusionup
 brew install kusion
 brew install kclvm
 ```
-
+a79f37a7ad372619b8f1250fa1d90c81c016ab54828c0d94f80037ee40e9af67
 ## Formulae
 
 | Repository | Formula | Description |
