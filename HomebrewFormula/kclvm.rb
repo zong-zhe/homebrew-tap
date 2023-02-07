@@ -1,7 +1,7 @@
 # typed: false
 # frozen_string_literal: true
 
-class KCLVM < Formula
+class Kclvm < Formula
   desc "A constraint-based record & functional language mainly used in configuration and policy scenarios."
   homepage "https://github.com/KusionStack/KCLVM"
   version "0.4.4"
