@@ -38,6 +38,6 @@ class Kclvm < Formula
   end
 
   test do
-    system "#{bin}/kcl -V"
+    system "#{bin}/kclvm/bin/kcl -V"
   end
 end
